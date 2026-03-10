@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@200;300;400;500;600;700;800&display=swap');
+
+@import "tailwindcss";
+
+@theme{
+  --font-roboto: "Roboto", sans-serif;
+  --font-bricolage-grotesque: "Bricolage Grotesque", sans-serif;
+  --font-mukta: "Mukta", sans-serif;
+}
+
+
+/* .about-us{
+  background: url('/assets/img/about.png');
+} */
+/* .testimonial{
+  background-image: url('/assets/img/testimonial.png');
+} */
